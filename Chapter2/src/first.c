@@ -1,11 +1,10 @@
-#include <stdio.h>
+#include "first.h"
 
-int main(void){
+void firstfunction(void){
 
-    printf("Haoran Yan");
+    printf("Haoran Yan\n");
     printf("Haoran\n");
     printf("Yan\n");
     printf("Haoran");
     printf("Yan");
-    return 0;
 }
