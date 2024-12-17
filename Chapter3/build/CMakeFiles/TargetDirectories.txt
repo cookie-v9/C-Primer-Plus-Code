@@ -1,0 +1,3 @@
+/home/cookie/Projects/C_Pro/C_Primer_Plus/Chapter3/build/CMakeFiles/test.dir
+/home/cookie/Projects/C_Pro/C_Primer_Plus/Chapter3/build/CMakeFiles/edit_cache.dir
+/home/cookie/Projects/C_Pro/C_Primer_Plus/Chapter3/build/CMakeFiles/rebuild_cache.dir

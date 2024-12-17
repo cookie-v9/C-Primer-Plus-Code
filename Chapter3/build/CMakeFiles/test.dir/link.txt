@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test.dir/src/five.c.o CMakeFiles/test.dir/src/four.c.o CMakeFiles/test.dir/src/six.c.o CMakeFiles/test.dir/src/three.c.o CMakeFiles/test.dir/src/two.c.o CMakeFiles/test.dir/main.c.o -o /home/cookie/Projects/C_Pro/C_Primer_Plus/Chapter3/bin/test 
