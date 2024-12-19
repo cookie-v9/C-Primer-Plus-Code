@@ -14,7 +14,7 @@ void fourFun(void);
 
 void fiveFun(void);
 
-void sexFun(void);
+void sixFun(void);
 
 void sevenFun(void);
 

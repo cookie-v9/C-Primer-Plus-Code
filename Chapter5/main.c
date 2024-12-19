@@ -5,7 +5,12 @@ int main(void){
     // oneFun();
     // twoFun();
     // threeFun();
-    fourFun();
+    // fourFun();
+    // fiveFun();
+    // sixFun();
+    // sevenFun();
+    // eightFun();
+    nineFun();
 
     return 0;
 }
